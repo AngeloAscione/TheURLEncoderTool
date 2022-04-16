@@ -6,6 +6,7 @@ Installation and Usage:
 First you have to download the repo and move to the directory:
 `
 git clone https://github.com/AngeloAscione/TheURLEncoderTool.git
+
 cd TheURLEncoderTool
 `
 
