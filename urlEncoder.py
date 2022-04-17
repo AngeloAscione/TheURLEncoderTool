@@ -1,5 +1,18 @@
-from termcolor import colored
 from time import sleep
+try:
+    from termcolor import colored
+
+except ImportError:
+        import os
+        ret_code = os.system('pip install termcolor')
+        if(ret_code != 0):
+            print('termcolor installation failed.')
+            exit()
+        from termcolor import colored
+        print (colored('termcolor has been installed','green'))
+        
+    
+
 
 def encode(url, dic):
     encoded_string = ""
