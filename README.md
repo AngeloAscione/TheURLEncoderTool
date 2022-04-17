@@ -16,5 +16,5 @@ cd TheURLEncoderTool
 2 - Now you are able to run the program:
 
 `
-python3 urlEncoder.py
+python3 urlTool.py
 `
