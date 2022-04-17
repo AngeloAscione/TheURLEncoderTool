@@ -10,10 +10,7 @@ except ImportError:
             exit()
         from termcolor import colored
         print (colored('termcolor has been installed','green'))
-        
-    
-
-
+       
 def encode(url, dic):
     encoded_string = ""
     words = url.split(' ')
