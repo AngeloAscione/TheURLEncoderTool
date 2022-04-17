@@ -13,13 +13,7 @@ git clone https://github.com/AngeloAscione/TheURLEncoderTool.git
 cd TheURLEncoderTool
 `
 
-2 - Than you have to download the requirements:
-
-`
-pip install -r requirement.txt
-`
-
-3 - Now you are able to run the program:
+2 - Now you are able to run the program:
 
 `
 python3 urlEncoder.py
