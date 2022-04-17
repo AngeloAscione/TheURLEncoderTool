@@ -40,7 +40,7 @@ def menu():
     print(colored("* [1]Encode                           *", 'blue'))
     print(colored("* [2]Decode                           *", 'blue'))
     print(colored("* [0]Quit                             *", 'blue'))
-    print(colored("*                      By ZhOm v(1.0) *", 'blue'))
+    print(colored("*               By ZhOm & Snap v(1.1) *", 'blue'))
     print(colored("***************************************", 'blue'))
     return int(input(colored("**--> ", 'blue')))
 
