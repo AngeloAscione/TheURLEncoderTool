@@ -1,4 +1,4 @@
-# The URL Encoder Tool
+# The URL Tool
 This little python tool will help you to encode or decode your urls
 
 Installation and Usage:
